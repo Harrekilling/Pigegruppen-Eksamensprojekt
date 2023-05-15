@@ -1,0 +1,11 @@
+C:\Users\Sanne\Desktop\EKSAMENSPROJEKT\PigegruppenProjektSynsPunkt\ButiksSystem\bin\Debug\ButiksSystem.exe.config
+C:\Users\Sanne\Desktop\EKSAMENSPROJEKT\PigegruppenProjektSynsPunkt\ButiksSystem\bin\Debug\ButiksSystem.exe
+C:\Users\Sanne\Desktop\EKSAMENSPROJEKT\PigegruppenProjektSynsPunkt\ButiksSystem\bin\Debug\ButiksSystem.pdb
+C:\Users\Sanne\Desktop\EKSAMENSPROJEKT\PigegruppenProjektSynsPunkt\ButiksSystem\obj\Debug\ButiksSystem.csproj.AssemblyReference.cache
+C:\Users\Sanne\Desktop\EKSAMENSPROJEKT\PigegruppenProjektSynsPunkt\ButiksSystem\obj\Debug\ButiksSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sanne\Desktop\EKSAMENSPROJEKT\PigegruppenProjektSynsPunkt\ButiksSystem\obj\Debug\ButiksSystem.Form1.resources
+C:\Users\Sanne\Desktop\EKSAMENSPROJEKT\PigegruppenProjektSynsPunkt\ButiksSystem\obj\Debug\ButiksSystem.Properties.Resources.resources
+C:\Users\Sanne\Desktop\EKSAMENSPROJEKT\PigegruppenProjektSynsPunkt\ButiksSystem\obj\Debug\ButiksSystem.csproj.GenerateResource.cache
+C:\Users\Sanne\Desktop\EKSAMENSPROJEKT\PigegruppenProjektSynsPunkt\ButiksSystem\obj\Debug\ButiksSystem.csproj.CoreCompileInputs.cache
+C:\Users\Sanne\Desktop\EKSAMENSPROJEKT\PigegruppenProjektSynsPunkt\ButiksSystem\obj\Debug\ButiksSystem.exe
+C:\Users\Sanne\Desktop\EKSAMENSPROJEKT\PigegruppenProjektSynsPunkt\ButiksSystem\obj\Debug\ButiksSystem.pdb

@@ -1,0 +1,10 @@
+C:\Users\Sanne\Desktop\EKSAMENSPROJEKT\PigegruppenProjektSynsPunkt\KundeApplication\bin\Debug\KundeApplication.exe.config
+C:\Users\Sanne\Desktop\EKSAMENSPROJEKT\PigegruppenProjektSynsPunkt\KundeApplication\bin\Debug\KundeApplication.exe
+C:\Users\Sanne\Desktop\EKSAMENSPROJEKT\PigegruppenProjektSynsPunkt\KundeApplication\bin\Debug\KundeApplication.pdb
+C:\Users\Sanne\Desktop\EKSAMENSPROJEKT\PigegruppenProjektSynsPunkt\KundeApplication\obj\Debug\KundeApplication.csproj.AssemblyReference.cache
+C:\Users\Sanne\Desktop\EKSAMENSPROJEKT\PigegruppenProjektSynsPunkt\KundeApplication\obj\Debug\KundeApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sanne\Desktop\EKSAMENSPROJEKT\PigegruppenProjektSynsPunkt\KundeApplication\obj\Debug\KundeApplication.Properties.Resources.resources
+C:\Users\Sanne\Desktop\EKSAMENSPROJEKT\PigegruppenProjektSynsPunkt\KundeApplication\obj\Debug\KundeApplication.csproj.GenerateResource.cache
+C:\Users\Sanne\Desktop\EKSAMENSPROJEKT\PigegruppenProjektSynsPunkt\KundeApplication\obj\Debug\KundeApplication.csproj.CoreCompileInputs.cache
+C:\Users\Sanne\Desktop\EKSAMENSPROJEKT\PigegruppenProjektSynsPunkt\KundeApplication\obj\Debug\KundeApplication.exe
+C:\Users\Sanne\Desktop\EKSAMENSPROJEKT\PigegruppenProjektSynsPunkt\KundeApplication\obj\Debug\KundeApplication.pdb
