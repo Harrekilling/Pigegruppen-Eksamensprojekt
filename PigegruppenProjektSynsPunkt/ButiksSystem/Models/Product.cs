@@ -8,5 +8,8 @@ namespace ButiksSystem.Models
 {
     internal class Product
     {
+
+        //Linda tester om hun kan noget i programmet, for hun kan ikke oprette klasser!
+
     }
 }
